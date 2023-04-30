@@ -1,6 +1,6 @@
 # Flappy Square
 
-This is a game made in C++.
+This is a cool game made in C++.
 
 ## Build
 
