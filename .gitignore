@@ -3,3 +3,4 @@ replit.nix
 .ccls-cache
 main
 *.o
+.breakpoints
